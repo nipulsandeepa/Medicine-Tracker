@@ -15,7 +15,7 @@ export default function EmptyState() {
         alignItems:'center'
 
     }}>
-       <Image source={require('./../assets/images/med2.png')}
+       <Image source={require('./../assets/images/pngegg.png')}
        
        style={{
         width:120,
